@@ -7,6 +7,8 @@ This project involve 5 people: <br/>
 4) Lee Choon Keat<br/>
 5) Siti Nor 'Amirah Binti Abd Hamid<br/>
 
+Feel free to visit our video on explaination of this project on youtube:
+https://www.youtube.com/watch?v=20Eu37J0LEM&t=98s <br/><br/>
 This project briefly is to reduce the monthly water bill of Masjid (mosque) and save energy sources. The unique approach of this project is the utilization of rain as source of water supply.<br/>
 
 This project mainly use:<br/>
