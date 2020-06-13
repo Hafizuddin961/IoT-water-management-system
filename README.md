@@ -20,3 +20,35 @@ This project mainly use:<br/>
 4) Water flow sensor<br/>
 
 p/s: fully detail such as block diagram, flowchart, etc can refer to Full discription project report <br/>
+
+# Appendix
+## Our logo: 
+<p align="center">
+  <img src="https://github.com/Hafizuddin961/IoT-water-management-system/blob/master/image/logo.jpeg" width="470px" height="450px"/></p>
+ 
+ <br>
+Sketch :
+
+<p align="center">
+  <img src="https://github.com/Hafizuddin961/IoT-water-management-system/blob/master/image/circuit_diagram.jpeg" width="550px" height="350px"/>
+  <img src="https://github.com/Hafizuddin961/IoT-water-management-system/blob/master/image/3d_sketch.JPG" width="350px" height="350px"/>
+</p>
+  
+  <br>
+Prototyping:
+
+  <p align="center">
+  <img src="https://github.com/Hafizuddin961/IoT-water-management-system/blob/master/image/Full%20project.jpeg" width="550px" height="350px"/>
+  <img src="https://github.com/Hafizuddin961/IoT-water-management-system/blob/master/image/flowchart.png" width="350px" height="350px"/>
+</p>
+  
+Final Prototype:
+
+<p align="center">
+  <img src="https://github.com/Hafizuddin961/IoT-water-management-system/blob/master/image/circuit%20board.jpeg" width="550px" height="350px"/>
+  <img src="https://github.com/Hafizuddin961/IoT-water-management-system/blob/master/image/circuit_board.jpeg" width="350px" height="350px"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Hafizuddin961/IoT-water-management-system/blob/master/image/prototype.JPG" width="550px" height="350px"/>
+</p>
